@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnitaBog
-- 👀 I’m interested in recruiting
-- 🌱 I’m currently learning technical recruitment
+- 👀 I’m interested in technical recruitment
 - 💞️ I’m looking to collaborate in Tuum
 - 📫 How to reach me - anita.bogatorjova@tuumplatform.com
 
